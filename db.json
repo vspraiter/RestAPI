@@ -1,11 +1,34 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"products": [
+		{
+			"productId eProcurement": 1,
+			"ID_ERP": 1001001,
+			"Denumirea": "Telefon mobil iPhone 8",
+			"Denumirea detaliată": "Telefon mobil iPhone 8",
+			"Tipul tabelului": 1,
+			"Tipul Produsului": "Marfă",
+			"Articolul": "ART-001",
+			"Unitatea de depozitare": "buc.",
+			"Descrierea": "Telefon mobil iPhone 8",
+			"Producător": "Firma 1",
+			"Cota TVA": "20%",
+			"Tipul de grup": "TipGrup1",
+			"Data modificarii": "20200101"
+		},
+		{
+			"productId eProcurement": 2,
+			"ID_ERP": 1001002,
+			"Denumirea": "Telefon mobil Samsung Galaxy S5",
+			"Denumirea detaliată": "Telefon mobil Samsung Galaxy S5",
+			"Tipul tabelului": 1,
+			"Tipul Produsului": "Marfă",
+			"Articolul": "ART-002",
+			"Unitatea de depozitare": "buc.",
+			"Descrierea": "Telefon mobil Samsung Galaxy S5",
+			"Producător": "Firma 2",
+			"Cota TVA": "20%",
+			"Tipul de grup": "TipGrup2",
+			"Data modificarii": "20200101"
+		}
+	]
 }
