@@ -1,7 +1,7 @@
 {
 	"products": [
 		{
-			"Id": 1,
+			"id": 1,
 			"ID_ERP": 1001001,
 			"Denumirea": "Telefon mobil iPhone 8",
 			"Denumirea detaliată": "Telefon mobil iPhone 8",
@@ -16,7 +16,7 @@
 			"Data modificarii": "20200101"
 		},
 		{
-			"Id": 2,
+			"id": 2,
 			"ID_ERP": 1001002,
 			"Denumirea": "Telefon mobil Samsung Galaxy S5",
 			"Denumirea detaliată": "Telefon mobil Samsung Galaxy S5",
@@ -31,7 +31,7 @@
 			"Data modificarii": "20200101"
 		},
 		{
-			"Id": 3,
+			"id": 3,
 			"ID_ERP": 1001003,
 			"Denumirea": "Televizor LED TV Hisense H65A6500",
 			"Denumirea detaliată": "Televizor LED TV Hisense H65A6500",
@@ -46,7 +46,7 @@
 			"Data modificarii": "20200101"
 		},
 		{
-			"Id": 4,
+			"id": 4,
 			"ID_ERP": 1001004,
 			"Denumirea": "Camera GoPro HERO 7 Black",
 			"Denumirea detaliată": "Camera GoPro HERO 7 Black",
